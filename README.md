@@ -5,11 +5,11 @@ Synthetic Mixed Data Generator (SMDG) is an open-source tool distributed under [
 ## Requirements and Uses
 
 ### Prerequisites:
-To clone, build, and compile the Proyect the following software tools are needed:
+To clone, build, and compile the Proyect, the following software tools are needed:
 
 * [Git](https://git-scm.com/downloads) 
 * JDK 1.7 or above ([Oracle, ](https://www.oracle.com/java/technologies/downloads/#java8)[Open JDK, ](https://adoptopenjdk.net/)[GraalVM](https://www.graalvm.org/java/quickstart/) or any other) 
-* [Maven](http://maven.apache.org/download.cgi#Installation) (See this tutorial for instalation)
+* [Maven](http://maven.apache.org/download.cgi#Installation) (See this [tutorial](https://maven.apache.org/install.html) for instalation)
 
 Synthetic Mixed Data Generator requires:
 * weka-stable 3.8.4
@@ -19,7 +19,7 @@ Synthetic Mixed Data Generator requires:
 * flatlaf 0.37
 
 ### Source code:
-You can download the latest sources with the command:
+Download the latest sources with the command:
 
 git clone https://github.com/sausolofer/Synthetic-Mixed-Data-Generator.git
 
