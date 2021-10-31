@@ -7,11 +7,11 @@ Synthetic Mixed Data Generator (SMDG) is an open-source tool distributed under [
 ## Requirements and Uses
 
 ### Prerequisites:
-To clone, build, and compile the Proyect, the following software tools are needed:
+To clone, build, and compile the Project, the following software tools are needed:
 
 * [Git](https://git-scm.com/downloads) 
 * JDK 1.7 or above ([Oracle, ](https://www.oracle.com/java/technologies/downloads/#java8)[OpenJDK, ](https://adoptopenjdk.net/)[GraalVM](https://www.graalvm.org/java/quickstart/) or any other) 
-* [Maven](http://maven.apache.org/download.cgi#Installation) (See this [tutorial](https://maven.apache.org/install.html) for instalation)
+* [Maven](http://maven.apache.org/download.cgi#Installation) (See this [tutorial](https://maven.apache.org/install.html) for installation)
 
 Synthetic Mixed Data Generator requires:
 * weka-stable 3.8.4
@@ -28,13 +28,13 @@ Download the latest sources with the command:
 ### Run and Uses:
 * To use the Synthetic Mixed Data Generator in your Java code, see the file "Example.java" located in smdg.examples package.
 
-* To Build and run the Maven Project from the Command Line execute the following steps:
+* To Build and run the Maven Project from the Command Line, execute the following steps:
 
     1.- From the main directory of the project (i.e., where the pom.xml file is), compile the project and generate target folder using:
     
     `mvn compile`
    
-    2.- Builds the maven project, cleans the target/ folder, and installs it into local maven repository.  
+    2.- Builds the maven project, cleans the target/ folder, and installs it into the local maven repository.  
     
     `mvn clean install`
 
@@ -73,6 +73,6 @@ If you use the "Synthetic Mixed Data Generator" in a scientific publication, we 
     }
 
 ### Contact:
-Feel free to reach out to ssolori1@asu.edu.com if you have any problems running the code, or if you have a question about the repository as a whole. Lastly, if you have any suggestion to improve this repository, create an issue or send an email if that's more applicable.
+Feel free to reach out to ssolori1@asu.edu.com if you have any problems running the code or if you have a question about the repository as a whole. Lastly, if you have any suggestions to improve this repository, create an issue or send an email if that's more applicable.
 
 
