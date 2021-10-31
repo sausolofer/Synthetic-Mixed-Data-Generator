@@ -1,6 +1,6 @@
 # Synthetic Mixed Data Generator
 
-<p align="center"><img src ="smdg.jpg" width="450"/></p>
+<p align="center"><img src ="SMDG_Img.png" width="70"/></p>
 
 Synthetic Mixed Data Generator (SMDG) is an open-source tool distributed under [GNU General Public License](http://www.gnu.org/licenses/gpl.html) written in Java for producing supervised mixed datasets described by relevant, irrelevant, and redundant features.
 
