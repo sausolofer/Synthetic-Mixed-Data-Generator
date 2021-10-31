@@ -42,8 +42,8 @@ Download the latest sources with the command:
     
     `mvn exec:java -Dexec.mainClass=smdg.dataGenerators.Examples`
     
-    Note 1: You must run the previous command from the main directory of the project, that is, where the pom.xml file is located.
-    Note 2: If changes are made to the code, mvn compile needs to be executed again before calling exec.
+    - Note 1: You must run the previous command from the main directory of the project, that is, where the pom.xml file is located.
+    - Note 2: If changes are made to the code, mvn compile needs to be executed again before calling exec.
 
     4.- To run the Graphical User Interface (SMDG-GUI), execute the SyntheticMDG.java file located in smdg.gui package with the following command.
     
