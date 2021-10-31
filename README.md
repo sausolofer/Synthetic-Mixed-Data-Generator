@@ -1,5 +1,7 @@
 # Synthetic Mixed Data Generator
 
+<p align="center"><img src ="smdg.jpg" width="450"/></p>
+
 Synthetic Mixed Data Generator (SMDG) is an open-source tool distributed under [GNU General Public License](http://www.gnu.org/licenses/gpl.html) written in Java for producing supervised mixed datasets described by relevant, irrelevant, and redundant features.
 
 ## Requirements and Uses
@@ -21,7 +23,7 @@ Synthetic Mixed Data Generator requires:
 ### Source code:
 Download the latest sources with the command:
 
-git clone https://github.com/sausolofer/Synthetic-Mixed-Data-Generator.git
+`git clone https://github.com/sausolofer/Synthetic-Mixed-Data-Generator.git`
 
 ### Run and Uses:
 * To use the Synthetic Mixed Data Generator in your Java code, see the file "Example.java" located in smdg.examples package.
@@ -30,22 +32,22 @@ git clone https://github.com/sausolofer/Synthetic-Mixed-Data-Generator.git
 
     1.- From the main directory of the project (i.e., where the pom.xml file is), compile the project and generate target folder using:
     
-    mvn compile
+    `mvn compile`
    
-    2.- Builds the maven project, cleans the target/ folder, and installs it into local maven repository.
+    2.- Builds the maven project, cleans the target/ folder, and installs it into local maven repository.  
     
-    mvn clean install
+    `mvn clean install`
 
     3.- In order to execute the Examples.java class, and in general, any main class generated in the target folder, the  Maven's exec plugin can be used as follows:
     
-    mvn exec:java -Dexec.mainClass=smdg.dataGenerators.Examples
+    `mvn exec:java -Dexec.mainClass=smdg.dataGenerators.Examples`
     
     Note 1: You must run the previous command from the main directory of the project, that is, where the pom.xml file is located.
     Note 2: If changes are made to the code, mvn compile needs to be executed again before calling exec.
 
     4.- To run the Graphical User Interface (SMDG-GUI), execute the SyntheticMDG.java file located in smdg.gui package with the following command.
-
-    mvn exec:java -Dexec.mainClass=smdg.gui.SyntheticMDG
+    
+    `mvn exec:java -Dexec.mainClass=smdg.gui.SyntheticMDG`
 
 
 ## Development
@@ -67,12 +69,7 @@ If you use the "Synthetic Mixed Data Generator" in a scientific publication, we 
     @article{solorio2022DataGenerator,
     title={A Multipurpose Synthetic Mixed Data Generator},
     author={Solorio-Fernández, Saúl and Carrasco-Ochoa, J. Ariel and Martínez-Trinidad, J. Francisco},
-    journal={-},
-    volume={-},
-    number={-},
-    pages={-},
-    year={-},
-    publisher={-}
+    year={2021},
     }
 
 ### Contact:
