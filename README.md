@@ -61,7 +61,7 @@ Download the latest sources with the command:
 ## Help and Support
 
 ### Documentation
-* HTML documentation:
+* HTML documentation: An overview of the project's classes and methods is available here.
 
 ### Citation:
 If you use the "Synthetic Mixed Data Generator" in a scientific publication, we would appreciate citations: 
