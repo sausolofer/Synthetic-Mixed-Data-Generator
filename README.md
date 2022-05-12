@@ -40,14 +40,14 @@ Download the latest sources with the command:
 
     3.- In order to execute the Examples.java class, and in general, any main class generated in the target folder, the  Maven's exec plugin can be used as follows:
     
-    `mvn exec:java -Dexec.mainClass=smdg.dataGenerators.Examples`
+    `mvn exec:java -Dexec.mainClass=smdg.examples.Examples`
     
     - Note 1: You must run the previous command from the main directory of the project, that is, where the pom.xml file is located.
     - Note 2: If changes are made to the code, mvn compile needs to be executed again before calling exec.
 
     4.- To run the Graphical User Interface (SMDG-GUI), execute the SyntheticMDG.java file located in smdg.gui package with the following command.
     
-    `mvn exec:java -Dexec.mainClass=smdg.gui.SyntheticMDG`
+    `mvn exec:java -Dexec.mainClass=smdg.gui.SMDGMainJFrame`
 
 
 ## Development
