@@ -69,10 +69,10 @@ If you use the "Synthetic Mixed Data Generator" in a scientific publication, we 
     @article{solorio2022DataGenerator,
     title={A Multipurpose Synthetic Mixed Data Generator},
     author={Solorio-Fernández, Saúl and Carrasco-Ochoa, J. Ariel and Martínez-Trinidad, J. Francisco},
-    year={2021},
+    year={2025},
     }
 
 ### Contact:
-Feel free to reach out to ssolori1@asu.edu.com if you have any problems running the code or if you have a question about the repository as a whole. Lastly, if you have any suggestions to improve this repository, create an issue or send an email if that's more applicable.
+Feel free to reach out to susolofer@gmail.com.com if you have any problems running the code or if you have a question about the repository as a whole. Lastly, if you have any suggestions to improve this repository, create an issue or send an email if that's more applicable.
 
 
